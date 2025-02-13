@@ -693,8 +693,8 @@ footer {
     border-top: 1px solid rgba(255, 255, 255, 0.2);
   }
   
-  /*--------footer---------*/
-  /* @media only screen {
+
+ @media only screen {
     .home {
       color: #fff;
       height: 50vh;
@@ -803,4 +803,4 @@ footer {
     footer .grid {
       grid-template-columns: repeat(2, 1fr);
     }
-  } */
+  } 
